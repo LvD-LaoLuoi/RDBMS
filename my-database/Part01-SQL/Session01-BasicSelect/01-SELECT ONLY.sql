@@ -30,3 +30,10 @@ SELECT N'Lê Văn Dũng' AS [My fullname is]
 
 -- 6. Tính tuổi
 SELECT YEAR(GETDATE()) - 1991 AS [Tuổi]
+
+SELECT N'Lê' + N' Dũng ' + CONVERT(VARCHAR, YEAR(GETDATE())) AS [Name and Years]
+
+SELECT N'Lê' + N' Dũng ' + CAST(YEAR(GETDATE()) - 1991 AS VARCHAR) AS [Name and Old]
+
+-- 7. Phép nhân 2 số
+SELECT 10 * 10 AS [10 x 10 = ]
