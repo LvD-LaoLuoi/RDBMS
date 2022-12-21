@@ -1,0 +1,15 @@
+- Bài toán danh bạ điện thoại
+- Bài toán về lập một database cho group giáo viên tổ chức seminar, trainning
+- AlsoShop - an online mobile shopping website would like to keep it's sales transactions. Each sales transaction records the following information:
+  CustomerID, CustomerName, Phone, Address, OrderID, OrderDate, ShipToAddress, ShippedDate, TotalAmount
+  Design the ERD and DDL script to capture the AloShip sales avtivities (with all neccessary constraints and assumptions)
+  Create a sample data for this design (DML)
+
+------------------------------------------------------------------------------------------------------------
+- Bài toán thông tin covid
+
+
+
+
+
+

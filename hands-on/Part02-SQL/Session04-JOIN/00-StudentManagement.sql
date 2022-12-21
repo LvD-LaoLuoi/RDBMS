@@ -1,4 +1,4 @@
-﻿DROP DATABASE StudentManagement
+﻿-- DROP DATABASE StudentManagement
 
 CREATE DATABASE StudentManagement
 
@@ -19,7 +19,7 @@ INSERT INTO Major VALUES('KR', 'Korean', '094x')
 
 SELECT * FROM Major
 
-DROP TABLE Student
+-- DROP TABLE Student
 CREATE TABLE Student
 (
 	StudentID char(8) PRIMARY KEY,          -- PK Primary Key - Khóa chính
